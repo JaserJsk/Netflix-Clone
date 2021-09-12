@@ -1,0 +1,14 @@
+.splash {
+  display: grid;
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+  place-items: center;
+  background-color: #cccccc;
+}
+
+.splash-logo > img {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+}
